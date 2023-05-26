@@ -11,3 +11,4 @@ hello git!----commit by master
 hello git!----second commit by hot-fix
 hello git!----commit by other people
 hello git!----commit by master
+hello git!----commit by a people
